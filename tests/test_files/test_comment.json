@@ -1,0 +1,41 @@
+{
+  "comments": [
+    {
+      "_id": "H4uiv9uNsBX-jA",
+      "channel_id": "137512364",
+      "commenter": {
+        "_id": "61845753",
+        "bio": null,
+        "created_at": "2014-04-30T01:08:55.326739Z",
+        "display_name": "seaskythe",
+        "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png",
+        "name": "seaskythe",
+        "type": "user",
+        "updated_at": "2019-09-29T05:34:53.82089Z"
+      },
+      "content_id": "451603129",
+      "content_offset_seconds": 0,
+      "content_type": "video",
+      "created_at": "2019-07-12T04:17:23.928246272Z",
+      "message": {
+        "body": "PLEASE BE A FAIR MATCH, to get more hours of tokens",
+        "fragments": [
+          {
+            "text": "PLEASE BE A FAIR MATCH, to get more hours of tokens"
+          }
+        ],
+        "is_action": false,
+        "user_badges": [
+          {
+            "_id": "premium",
+            "version": "1"
+          }
+        ]
+      },
+      "more_replies": false,
+      "source": "chat",
+      "state": "published",
+      "updated_at": "2019-07-12T04:17:23.928246272Z"
+    }
+  ]
+}
